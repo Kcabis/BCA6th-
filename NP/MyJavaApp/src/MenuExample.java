@@ -1,5 +1,4 @@
 import javax.swing.*;
-import java.awt.event.*;
 
 public class MenuExample extends JFrame {
 
@@ -48,6 +47,6 @@ public class MenuExample extends JFrame {
     }
 
     public static void main(String[] args) {
-        new MenuExample();
+        //new MenuExample();
     }
 }
